@@ -1,17 +1,17 @@
 ### The repository contains 2 codes:
-- A shell terminal implemented in C (Submission to [Operating Systems Assignment 1](https://vnit.ac.in/cse/index.php/oslab2/))
-- A multi thread web server (Submission to [Operating Systems Assignment 2](https://vnit.ac.in/cse/index.php/OSlabwebserver/)
+- A shell terminal implemented in C 
+- A multi thread web server 
 
 ### Steps to run the codes:
 1. myshell.c  
-    - git clone https://github.com/Diksha942/Shell-and-MultiThread-Server.git 
+    - git clone https://github.com/SnehalChaware/Shell-and-Multithread-webserver.git 
     - Run myshell.c in your preferred IDE.
     - The terminal works for most of the linux commands and supports parallel and sequential execution of commands using '&&' and '||' respectively.
     - Supports redirection of output using '>' into a file.
     - Type 'exit', to exit the shell.
 
 2. The multi-thread web server
-    - git clone https://github.com/Diksha942/Shell-and-MultiThread-Server.git
+    - git clone https://github.com/SnehalChaware/Shell-and-Multithread-webserver.git
     - Open the 'WebServer' folder in your preferred IDE.
     - Run the Makefile to create the executables, or type 'make' in the terminal inside folder.
     - Run 
